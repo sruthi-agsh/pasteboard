@@ -474,8 +474,11 @@ padding: 3px;
 background-color: #fefefe;
 border-radius: 30px;
  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
- margin-left: -30px;
- margin-top: 15px;
+ /* margin-left: -30px; */
+ /* margin-top: 15px; */
+ position:fixed;
+ top:100px;
+ left:40px;
 }
 
 .div-float1{
